@@ -1,0 +1,11 @@
+.img-profile{
+    height: 300px; 
+    object-fit: cover;
+}
+.line{
+    border: 2px solid black;
+    width: 100%;
+}
+section{
+    margin-bottom: 2em;
+}
